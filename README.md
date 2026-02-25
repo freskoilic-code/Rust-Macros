@@ -32,7 +32,7 @@ To improve usability, the program provides a simple interface and fast installat
 
 # 📚 Disclaimer
 
-This project is provided strictly for educational and research purposes only. It is intended to demonstrate how input automation, timing logic, and configuration systems can be implemented in software. The developer does not encourage misuse or violation of any game rules. Use responsibly.
+This project is provided strictly for educational and research purposes only. It is intended to demonstrate how input automation, timing logic, and configuration systems can be implemented in software. The developer does not encourage misuse or violation of any game rules. Use responsibly
 
 # 🛡️ Safety First
 Your security is our top priority. We guarantee a clean and safe experience—no bans, no worries. ✅
